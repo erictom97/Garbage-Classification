@@ -19,5 +19,6 @@ The ResNet-50 architecture is employed in this project for garbage classificatio
 The model achieved an accuracy of 95% on the test set, demonstrating its effectiveness in garbage classification. For more detailed performance metrics and analysis, refer to the Jupyter Notebook provided in the repository.
 
 ## References:
-https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
-https://www.kaggle.com/code/aadhavvignesh/pytorch-garbage-classification-95-accuracy
+[1] https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
+
+[2] https://www.kaggle.com/code/aadhavvignesh/pytorch-garbage-classification-95-accuracy
